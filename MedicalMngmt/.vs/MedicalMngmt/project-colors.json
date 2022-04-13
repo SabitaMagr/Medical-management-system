@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec4da2ac-57b0-44f3-b089-7c98d28e5eca": {
+      "ProjectGuid": "ec4da2ac-57b0-44f3-b089-7c98d28e5eca",
+      "DisplayName": "MedicalMngmt",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
